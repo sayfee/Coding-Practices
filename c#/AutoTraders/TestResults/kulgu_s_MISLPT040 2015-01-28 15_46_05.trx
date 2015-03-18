@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="27a1612e-cc0d-4d3f-b018-7d2eabc20f72" name="kulgu_s@MISLPT040 2015-01-28 15:46:05" runUser="GSICORP\kulgu_s" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c269aac0-1aad-4013-9d30-6f764dd9c9c8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kulgu_s_MISLPT040 2015-01-28 15_46_05">
+      <DeploymentItem filename="C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\AutoTraders\bin\Debug\AutoTraders.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-28T15:46:05.9734261-06:00" queuing="2015-01-28T15:46:10.1974731-06:00" start="2015-01-28T15:46:10.6115751-06:00" finish="2015-01-28T15:46:11.7238433-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestOneWord" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="19ab7ce5-947b-ef37-a91a-fcf79ae33e91">
+      <Execution id="2e0fcea8-9744-40c0-b987-b89665897417" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOneWord" />
+    </UnitTest>
+    <UnitTest name="TestSentence" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="b37c6f90-73e0-a58e-ad23-74bb035e2369">
+      <Execution id="cc7a4343-3303-4e4d-a69f-c733a1523b9d" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSentence" />
+    </UnitTest>
+    <UnitTest name="TestSentenceNonCaseSensitive" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="f7e607e5-4d57-3211-5316-84d754e52bb9">
+      <Execution id="e91b000a-8485-44c8-9ae3-040f35beba9b" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSentenceNonCaseSensitive" />
+    </UnitTest>
+    <UnitTest name="TestEmpySpace" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="7bd98983-034d-ab2e-cada-2bc1808ead8d">
+      <Execution id="ac874609-b8c8-4031-b4b6-d3868b2e07e8" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEmpySpace" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="19ab7ce5-947b-ef37-a91a-fcf79ae33e91" executionId="2e0fcea8-9744-40c0-b987-b89665897417" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7bd98983-034d-ab2e-cada-2bc1808ead8d" executionId="ac874609-b8c8-4031-b4b6-d3868b2e07e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b37c6f90-73e0-a58e-ad23-74bb035e2369" executionId="cc7a4343-3303-4e4d-a69f-c733a1523b9d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7e607e5-4d57-3211-5316-84d754e52bb9" executionId="e91b000a-8485-44c8-9ae3-040f35beba9b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2e0fcea8-9744-40c0-b987-b89665897417" testId="19ab7ce5-947b-ef37-a91a-fcf79ae33e91" testName="TestOneWord" computerName="MISLPT040" duration="00:00:00.0227363" startTime="2015-01-28T15:46:10.8516327-06:00" endTime="2015-01-28T15:46:11.4337737-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e0fcea8-9744-40c0-b987-b89665897417">
+    </UnitTestResult>
+    <UnitTestResult executionId="ac874609-b8c8-4031-b4b6-d3868b2e07e8" testId="7bd98983-034d-ab2e-cada-2bc1808ead8d" testName="TestEmpySpace" computerName="MISLPT040" duration="00:00:00.0002656" startTime="2015-01-28T15:46:11.4337737-06:00" endTime="2015-01-28T15:46:11.4437761-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac874609-b8c8-4031-b4b6-d3868b2e07e8">
+    </UnitTestResult>
+    <UnitTestResult executionId="cc7a4343-3303-4e4d-a69f-c733a1523b9d" testId="b37c6f90-73e0-a58e-ad23-74bb035e2369" testName="TestSentence" computerName="MISLPT040" duration="00:00:00.1137747" startTime="2015-01-28T15:46:11.4437761-06:00" endTime="2015-01-28T15:46:11.5538025-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cc7a4343-3303-4e4d-a69f-c733a1523b9d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;S4h O6r$$He's l6g w2h a5r g2l&gt;. Actual:&lt;S3h O6r$$He's l6g w2h a5r g2l&gt;. </Message>
+          <StackTrace>   at TestWordProcessor.UnitTest1.TestSentence() in C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\UnitTest1.cs:line 33
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e91b000a-8485-44c8-9ae3-040f35beba9b" testId="f7e607e5-4d57-3211-5316-84d754e52bb9" testName="TestSentenceNonCaseSensitive" computerName="MISLPT040" duration="00:00:00.0040098" startTime="2015-01-28T15:46:11.5638049-06:00" endTime="2015-01-28T15:46:11.5638049-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e91b000a-8485-44c8-9ae3-040f35beba9b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;S3h O6r$$He's l6g w2h a5r g2l&gt;. Actual:&lt;S4h O6r$$He's l6g w2h a5r g2l&gt;. </Message>
+          <StackTrace>   at TestWordProcessor.UnitTest1.TestSentenceNonCaseSensitive() in C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\UnitTest1.cs:line 44
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

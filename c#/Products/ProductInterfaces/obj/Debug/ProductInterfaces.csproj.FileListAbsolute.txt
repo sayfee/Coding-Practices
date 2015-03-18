@@ -1,0 +1,4 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductInterfaces\bin\Debug\ProductInterfaces.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductInterfaces\bin\Debug\ProductInterfaces.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductInterfaces\obj\Debug\ProductInterfaces.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductInterfaces\obj\Debug\ProductInterfaces.pdb

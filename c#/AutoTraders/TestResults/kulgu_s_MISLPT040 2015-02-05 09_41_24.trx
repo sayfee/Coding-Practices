@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d07679bb-9227-43ae-8b73-dda74b5fecda" name="kulgu_s@MISLPT040 2015-02-05 09:41:24" runUser="GSICORP\kulgu_s" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c269aac0-1aad-4013-9d30-6f764dd9c9c8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kulgu_s_MISLPT040 2015-02-05 09_41_24">
+      <DeploymentItem filename="C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\AutoTraders\bin\Debug\AutoTraders.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-05T09:41:24.8116354-06:00" queuing="2015-02-05T09:41:25.6746183-06:00" start="2015-02-05T09:41:25.7916153-06:00" finish="2015-02-05T09:41:36.7463363-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestLongText" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7">
+      <Execution id="c0bcc170-90e9-47a6-b227-885a7134b721" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLongText" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7" executionId="c0bcc170-90e9-47a6-b227-885a7134b721" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c0bcc170-90e9-47a6-b227-885a7134b721" testId="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7" testName="TestLongText" computerName="MISLPT040" duration="00:00:09.3568886" startTime="2015-02-05T09:41:25.9126126-06:00" endTime="2015-02-05T09:41:36.6343387-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0bcc170-90e9-47a6-b227-885a7134b721">
+    </UnitTestResult>
+  </Results>
+</TestRun>

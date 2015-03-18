@@ -1,0 +1,8 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductClient\bin\Debug\ProductClient.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductClient\bin\Debug\ProductClient.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductClient\obj\x86\Debug\ProductClient.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductClient\obj\x86\Debug\ProductClient.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\Products\ProductClient\bin\Debug\ProductClient.exe.config
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\Products\ProductClient\bin\Debug\ProductInterfaces.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\Products\ProductClient\bin\Debug\ProductInterfaces.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\Products\ProductClient\obj\x86\Debug\ProductClient.csprojResolveAssemblyReference.cache

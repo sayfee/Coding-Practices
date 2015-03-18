@@ -1,0 +1,8 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\bin\Debug\KnockOut.Tests.dll.config
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\bin\Debug\KnockOut.Tests.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\bin\Debug\KnockOut.Tests.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\bin\Debug\KnockOut.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\bin\Debug\KnockOut.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\obj\Debug\KnockOut.Tests.csprojResolveAssemblyReference.cache
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\obj\Debug\KnockOut.Tests.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut.Tests\obj\Debug\KnockOut.Tests.pdb

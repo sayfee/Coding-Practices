@@ -1,0 +1,5 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Crackcode\Crackcode\bin\Debug\Crackcode.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Crackcode\Crackcode\bin\Debug\Crackcode.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Crackcode\Crackcode\obj\x86\Debug\Crackcode.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Crackcode\Crackcode\obj\x86\Debug\Crackcode.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\Crackcode\Crackcode\obj\x86\Debug\Crackcode.csprojResolveAssemblyReference.cache

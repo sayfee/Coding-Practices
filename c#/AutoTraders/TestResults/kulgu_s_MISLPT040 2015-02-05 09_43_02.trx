@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b5511f9b-2ebb-4842-85e9-2be3902607a4" name="kulgu_s@MISLPT040 2015-02-05 09:43:02" runUser="GSICORP\kulgu_s" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c269aac0-1aad-4013-9d30-6f764dd9c9c8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kulgu_s_MISLPT040 2015-02-05 09_43_02">
+      <DeploymentItem filename="C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\AutoTraders\bin\Debug\AutoTraders.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-05T09:43:02.8148569-06:00" queuing="2015-02-05T09:43:03.0238569-06:00" start="2015-02-05T09:43:03.0508569-06:00" finish="2015-02-05T09:43:03.3228569-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestLongText" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7">
+      <Execution id="83c6b677-4dd5-4d0e-a41e-c52827d7f042" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLongText" />
+    </UnitTest>
+    <UnitTest name="TestOneWord" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="19ab7ce5-947b-ef37-a91a-fcf79ae33e91">
+      <Execution id="be047393-1190-4d21-872f-265a2b964ba2" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOneWord" />
+    </UnitTest>
+    <UnitTest name="TestSentence" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="b37c6f90-73e0-a58e-ad23-74bb035e2369">
+      <Execution id="0c355bfc-81e8-44d2-b4b9-8b7fa350f4cc" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSentence" />
+    </UnitTest>
+    <UnitTest name="TestSentenceNonCaseSensitive" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="f7e607e5-4d57-3211-5316-84d754e52bb9">
+      <Execution id="782c0bf8-bcb0-45c9-8389-b865afc577c2" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSentenceNonCaseSensitive" />
+    </UnitTest>
+    <UnitTest name="TestEmpySpace" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="7bd98983-034d-ab2e-cada-2bc1808ead8d">
+      <Execution id="2a42beb0-cc11-4152-8ad9-4a6f8dcf766c" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEmpySpace" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="19ab7ce5-947b-ef37-a91a-fcf79ae33e91" executionId="be047393-1190-4d21-872f-265a2b964ba2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7bd98983-034d-ab2e-cada-2bc1808ead8d" executionId="2a42beb0-cc11-4152-8ad9-4a6f8dcf766c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b37c6f90-73e0-a58e-ad23-74bb035e2369" executionId="0c355bfc-81e8-44d2-b4b9-8b7fa350f4cc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7" executionId="83c6b677-4dd5-4d0e-a41e-c52827d7f042" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7e607e5-4d57-3211-5316-84d754e52bb9" executionId="782c0bf8-bcb0-45c9-8389-b865afc577c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="be047393-1190-4d21-872f-265a2b964ba2" testId="19ab7ce5-947b-ef37-a91a-fcf79ae33e91" testName="TestOneWord" computerName="MISLPT040" duration="00:00:00.0164307" startTime="2015-02-05T09:43:03.0588569-06:00" endTime="2015-02-05T09:43:03.2818569-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be047393-1190-4d21-872f-265a2b964ba2">
+    </UnitTestResult>
+    <UnitTestResult executionId="2a42beb0-cc11-4152-8ad9-4a6f8dcf766c" testId="7bd98983-034d-ab2e-cada-2bc1808ead8d" testName="TestEmpySpace" computerName="MISLPT040" duration="00:00:00.0002337" startTime="2015-02-05T09:43:03.2828569-06:00" endTime="2015-02-05T09:43:03.2858569-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2a42beb0-cc11-4152-8ad9-4a6f8dcf766c">
+    </UnitTestResult>
+    <UnitTestResult executionId="0c355bfc-81e8-44d2-b4b9-8b7fa350f4cc" testId="b37c6f90-73e0-a58e-ad23-74bb035e2369" testName="TestSentence" computerName="MISLPT040" duration="00:00:00.0001728" startTime="2015-02-05T09:43:03.2868569-06:00" endTime="2015-02-05T09:43:03.2898569-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c355bfc-81e8-44d2-b4b9-8b7fa350f4cc">
+    </UnitTestResult>
+    <UnitTestResult executionId="83c6b677-4dd5-4d0e-a41e-c52827d7f042" testId="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7" testName="TestLongText" computerName="MISLPT040" duration="00:00:00.0131356" startTime="2015-02-05T09:43:03.2908569-06:00" endTime="2015-02-05T09:43:03.3058569-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="83c6b677-4dd5-4d0e-a41e-c52827d7f042">
+    </UnitTestResult>
+    <UnitTestResult executionId="782c0bf8-bcb0-45c9-8389-b865afc577c2" testId="f7e607e5-4d57-3211-5316-84d754e52bb9" testName="TestSentenceNonCaseSensitive" computerName="MISLPT040" duration="00:00:00.0002848" startTime="2015-02-05T09:43:03.3068569-06:00" endTime="2015-02-05T09:43:03.3098569-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="782c0bf8-bcb0-45c9-8389-b865afc577c2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

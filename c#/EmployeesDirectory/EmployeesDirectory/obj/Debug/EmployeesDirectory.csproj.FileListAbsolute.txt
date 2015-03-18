@@ -1,0 +1,9 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\bin\EmployeesDirectory.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\bin\EmployeesDirectory.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\bin\BusinessLayer.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\bin\BusinessLogics.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\bin\BusinessLayer.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\bin\BusinessLogics.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\obj\Debug\EmployeesDirectory.csprojResolveAssemblyReference.cache
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\obj\Debug\EmployeesDirectory.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\EmployeesDirectory\obj\Debug\EmployeesDirectory.pdb

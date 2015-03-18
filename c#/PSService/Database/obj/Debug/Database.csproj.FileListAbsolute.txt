@@ -1,0 +1,5 @@
+C:\Users\kulgu_s\documents\visual studio 2010\Projects\PSService\Database\bin\Debug\Database.dll.config
+C:\Users\kulgu_s\documents\visual studio 2010\Projects\PSService\Database\bin\Debug\Database.dll
+C:\Users\kulgu_s\documents\visual studio 2010\Projects\PSService\Database\bin\Debug\Database.pdb
+C:\Users\kulgu_s\documents\visual studio 2010\Projects\PSService\Database\obj\Debug\Database.dll
+C:\Users\kulgu_s\documents\visual studio 2010\Projects\PSService\Database\obj\Debug\Database.pdb

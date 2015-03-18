@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="EmployeeDirectoryModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="EmployeeDirectoryModelStoreContainer">
+          <EntitySet Name="User" EntityType="EmployeeDirectoryModel.Store.User" store:Type="Tables" store:Schema="dbo" store:Name="User">
+            <DefiningQuery>SELECT 
+      [User].[ID] AS [ID], 
+      [User].[FirstName] AS [FirstName], 
+      [User].[LastName] AS [LastName], 
+      [User].[Email] AS [Email], 
+      [User].[Password] AS [Password]
+      FROM [dbo].[User] AS [User]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'EmployeeDirectory.dbo.User' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Email" />
+            <PropertyRef Name="Password" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="200" />
+          <Property Name="LastName" Type="nvarchar" MaxLength="200" />
+          <Property Name="Email" Type="nvarchar" Nullable="false" MaxLength="200" />
+          <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="100" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EmployeeDirectoryModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="EmployeeDirectoryEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Users" EntityType="EmployeeDirectoryModel.User" />
+        </EntityContainer>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Email" />
+            <PropertyRef Name="Password" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="FirstName" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="LastName" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="Password" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EmployeeDirectoryModelStoreContainer" CdmEntityContainer="EmployeeDirectoryEntities">
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="EmployeeDirectoryModel.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="UserModel">
+        <EntityTypeShape EntityType="EmployeeDirectoryModel.User" Width="1.5" PointX="0.75" PointY="0.75" Height="1.9802864583333331" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

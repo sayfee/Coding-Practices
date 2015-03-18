@@ -1,0 +1,10 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\ASPNetMVCTutorial.Tests.dll.config
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\ASPNetMVCTutorial.Tests.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\ASPNetMVCTutorial.Tests.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\ASPNetMVCTutorial.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\ASPNetMVCTutorial.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\obj\Debug\ASPNetMVCTutorial.Tests.csprojResolveAssemblyReference.cache
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\obj\Debug\ASPNetMVCTutorial.Tests.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\obj\Debug\ASPNetMVCTutorial.Tests.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\DataLayer.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial.Tests\bin\Debug\DataLayer.pdb

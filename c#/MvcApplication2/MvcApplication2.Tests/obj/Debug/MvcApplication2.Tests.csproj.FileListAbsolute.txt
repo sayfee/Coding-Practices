@@ -1,0 +1,8 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.dll.config
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.Tests.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\bin\Debug\MvcApplication2.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.csprojResolveAssemblyReference.cache
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MvcApplication2\MvcApplication2.Tests\obj\Debug\MvcApplication2.Tests.pdb

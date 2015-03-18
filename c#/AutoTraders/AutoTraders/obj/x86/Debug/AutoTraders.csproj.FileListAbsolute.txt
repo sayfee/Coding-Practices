@@ -1,0 +1,5 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\AutoTraders\AutoTraders\bin\Debug\AutoTraders.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\AutoTraders\AutoTraders\bin\Debug\AutoTraders.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\AutoTraders\AutoTraders\obj\x86\Debug\AutoTraders.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\AutoTraders\AutoTraders\obj\x86\Debug\AutoTraders.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\AutoTraders\obj\x86\Debug\AutoTraders.csprojResolveAssemblyReference.cache

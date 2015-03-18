@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDirectoryModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="EmployeeDirectoryModelStoreContainer">
+    <EntitySet Name="User" EntityType="EmployeeDirectoryModel.Store.User" store:Type="Tables" store:Schema="dbo" store:Name="User">
+      <DefiningQuery>SELECT 
+      [User].[ID] AS [ID], 
+      [User].[FirstName] AS [FirstName], 
+      [User].[LastName] AS [LastName], 
+      [User].[Email] AS [Email], 
+      [User].[Password] AS [Password]
+      FROM [dbo].[User] AS [User]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'EmployeeDirectory.dbo.User' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="200" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="200" />
+    <Property Name="Email" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+</Schema>

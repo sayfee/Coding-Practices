@@ -1,0 +1,8 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\obj\x86\Debug\ProductServices.csprojResolveAssemblyReference.cache
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\bin\Debug\ProductServices.exe.config
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\bin\Debug\ProductServices.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\bin\Debug\ProductServices.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\bin\Debug\ProductInterfaces.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\bin\Debug\ProductInterfaces.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\obj\x86\Debug\ProductServices.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\Products\ProductServices\obj\x86\Debug\ProductServices.pdb

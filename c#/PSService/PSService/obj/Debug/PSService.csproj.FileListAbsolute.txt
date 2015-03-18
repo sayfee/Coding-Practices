@@ -1,0 +1,7 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\PSService\PSService\bin\PSService.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\PSService\PSService\bin\PSService.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\PSService\PSService\obj\Debug\PSService.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\PSService\PSService\obj\Debug\PSService.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\PSService\PSService\obj\Debug\PSService.csprojResolveAssemblyReference.cache
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\PSService\PSService\bin\Database.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\PSService\PSService\bin\Database.pdb

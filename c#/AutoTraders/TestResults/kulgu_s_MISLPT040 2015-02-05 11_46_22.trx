@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="09b836c9-fa8b-44e2-b172-bea020631f67" name="kulgu_s@MISLPT040 2015-02-05 11:46:22" runUser="GSICORP\kulgu_s" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c269aac0-1aad-4013-9d30-6f764dd9c9c8">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kulgu_s_MISLPT040 2015-02-05 11_46_22">
+      <DeploymentItem filename="C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\AutoTraders\bin\Debug\AutoTraders.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-05T11:46:22.6882303-06:00" queuing="2015-02-05T11:46:29.8897368-06:00" start="2015-02-05T11:46:29.9997445-06:00" finish="2015-02-05T11:47:05.7242544-06:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="MISLPT040" outcome="Error" timestamp="2015-02-05T11:47:05.7232543-06:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestLongText" storage="c:\users\kulgu_s\documents\visual studio 2010\projects\autotraders\testwordprocessor\bin\debug\testwordprocessor.dll" id="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7">
+      <Execution id="e7aa3fa2-c2a3-4b4f-b819-68e666e0cae2" />
+      <TestMethod codeBase="C:/Users/kulgu_s/Documents/Visual Studio 2010/Projects/AutoTraders/TestWordProcessor/bin/Debug/TestWordProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWordProcessor.UnitTest1, TestWordProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLongText" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7" executionId="e7aa3fa2-c2a3-4b4f-b819-68e666e0cae2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e7aa3fa2-c2a3-4b4f-b819-68e666e0cae2" testId="bb6ca6a9-77cd-9b9f-e73b-00a704c443d7" testName="TestLongText" computerName="MISLPT040" duration="00:00:35.6045015" startTime="2015-02-05T11:46:30.1197529-06:00" endTime="2015-02-05T11:47:05.7242544-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7aa3fa2-c2a3-4b4f-b819-68e666e0cae2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

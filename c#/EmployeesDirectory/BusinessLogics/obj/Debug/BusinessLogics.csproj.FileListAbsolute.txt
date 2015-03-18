@@ -1,0 +1,9 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\bin\Debug\BusinessLogics.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\bin\Debug\BusinessLogics.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\bin\Debug\BusinessLayer.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\bin\Debug\DataAccessLayer.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\bin\Debug\BusinessLayer.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\bin\Debug\DataAccessLayer.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\obj\Debug\BusinessLogics.csprojResolveAssemblyReference.cache
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\obj\Debug\BusinessLogics.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\EmployeesDirectory\BusinessLogics\obj\Debug\BusinessLogics.pdb

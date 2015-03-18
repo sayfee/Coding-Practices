@@ -1,0 +1,4 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut\bin\KnockOut.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut\bin\KnockOut.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut\obj\Debug\KnockOut.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\KnockOut\KnockOut\obj\Debug\KnockOut.pdb

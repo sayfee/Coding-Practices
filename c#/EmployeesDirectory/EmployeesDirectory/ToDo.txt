@@ -1,0 +1,12 @@
+﻿-Create a solution with all the project
+-Create Business Layer with Entity
+-Add Connection string 
+-Create areas in Mvc
+-Common
+-User
+-Admin
+-Security
+-Create Controllers
+-Add default index views
+-Add Bootstrap
+-

@@ -1,0 +1,7 @@
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\bin\Debug\TestWordProcessor.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\bin\Debug\TestWordProcessor.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\bin\Debug\AutoTraders.exe
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\bin\Debug\AutoTraders.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\obj\Debug\TestWordProcessor.csprojResolveAssemblyReference.cache
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\obj\Debug\TestWordProcessor.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\AutoTraders\TestWordProcessor\obj\Debug\TestWordProcessor.pdb

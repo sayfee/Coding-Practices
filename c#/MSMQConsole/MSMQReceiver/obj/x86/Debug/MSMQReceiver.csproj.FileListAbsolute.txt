@@ -1,0 +1,4 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MSMQConsole\MSMQReceiver\bin\Debug\MSMQReceiver.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MSMQConsole\MSMQReceiver\bin\Debug\MSMQReceiver.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MSMQConsole\MSMQReceiver\obj\x86\Debug\MSMQReceiver.exe
+c:\users\kulgu_s\documents\visual studio 2010\Projects\MSMQConsole\MSMQReceiver\obj\x86\Debug\MSMQReceiver.pdb

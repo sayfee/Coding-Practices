@@ -1,0 +1,7 @@
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\obj\Debug\EmployeeDirectoryMVC.csprojResolveAssemblyReference.cache
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\obj\Debug\ASPNetMVCTutorial.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\bin\ASPNetMVCTutorial.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\bin\ASPNetMVCTutorial.pdb
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\bin\DataLayer.dll
+C:\Users\kulgu_s\Documents\Visual Studio 2010\Projects\ASPNetMVCTutorial\ASPNetMVCTutorial\bin\DataLayer.pdb

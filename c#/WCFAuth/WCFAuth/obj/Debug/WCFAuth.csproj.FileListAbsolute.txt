@@ -1,0 +1,5 @@
+c:\users\kulgu_s\documents\visual studio 2010\Projects\WCFAuth\WCFAuth\bin\Debug\WCFAuth.dll.config
+c:\users\kulgu_s\documents\visual studio 2010\Projects\WCFAuth\WCFAuth\bin\Debug\WCFAuth.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\WCFAuth\WCFAuth\bin\Debug\WCFAuth.pdb
+c:\users\kulgu_s\documents\visual studio 2010\Projects\WCFAuth\WCFAuth\obj\Debug\WCFAuth.dll
+c:\users\kulgu_s\documents\visual studio 2010\Projects\WCFAuth\WCFAuth\obj\Debug\WCFAuth.pdb
